@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "842603875063",
+    "project_id": "mingo-ee82d",
+    "storage_bucket": "mingo-ee82d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842603875063:android:873a8624aa114152a1e1f2",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842603875063-a6md0dsflaq9a33eksf442dsghg9bhcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "5915c7759811fe77e414c8769271bc41271e92a5"
+          }
+        },
+        {
+          "client_id": "842603875063-aer5pkcrtshfokls7fe6ij4huoopndig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOqSMNSVe1GK2Y-9AvBZUv2z7cCoP8qKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842603875063-aer5pkcrtshfokls7fe6ij4huoopndig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
